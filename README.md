@@ -14,3 +14,4 @@
 3. **Hit Enter to Close:** After all tasks are completed, simply press Enter to close the script.
 
 This script is ideal for users who want more control over VALORANT's background processes and services. Whether you're troubleshooting or optimizing your system, VALORANT Sentinel provides a straightforward solution.
+**RUN THIS EVERYTIME YOU CLOSE THE GAME SINCE VALORANT TURNS BACK ON RIOT VANGUARD IN REGISTRY !
