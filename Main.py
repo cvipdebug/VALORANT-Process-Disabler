@@ -47,8 +47,8 @@ def terminate_process(process_name):
 def is_autostart_disabled(program_name):
     """Checks if the autostart program is already disabled."""
     paths = [
-        r"SOFTWARE\Microsoft\Windows\CurrentVersion\Run",
-        r"SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Run"
+        r"SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+        r"SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Run"
     ]
     
     for path in paths:
@@ -74,8 +74,8 @@ def is_autostart_disabled(program_name):
 def disable_autostart(program_name):
     """Disables an autostart program by removing its registry entry."""
     paths = [
-        r"SOFTWARE\Microsoft\Windows\CurrentVersion\Run",
-        r"SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Run"
+        r"SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+        r"SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Run"
     ]
     
     for path in paths:
