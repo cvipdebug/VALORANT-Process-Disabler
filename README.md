@@ -15,3 +15,7 @@
 
 This script is ideal for users who want more control over VALORANT's background processes and services. Whether you're troubleshooting or optimizing your system, VALORANT Sentinel provides a straightforward solution.
 **RUN THIS EVERYTIME YOU CLOSE THE GAME SINCE VALORANT TURNS BACK ON RIOT VANGUARD IN REGISTRY !
+
+Make sure you have psutil installed on python 
+
+pip install psutil
