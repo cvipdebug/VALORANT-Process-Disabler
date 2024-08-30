@@ -1,6 +1,6 @@
-## VALORANT Sentinel
+## VALORANT Process Disabler
 
-**VALORANT Sentinel** is a Python utility designed to help users manage and disable specific VALORANT-related processes and services on Windows. This tool is particularly useful for those looking to disable the `RiotClientServices.exe`, `RiotClientCrashHandler.exe`, and `vgtray.exe` processes, as well as the `Riot Vanguard` service, ensuring they do not run at startup.
+**VALORANT Process Disabler** is a Python utility designed to help users manage and disable specific VALORANT-related processes and services on Windows. This tool is particularly useful for those looking to disable the `RiotClientServices.exe`, `RiotClientCrashHandler.exe`, and `vgtray.exe` processes, as well as the `Riot Vanguard` service, ensuring they do not run at startup.
 
 ### Features:
 - **Terminate Processes:** Automatically detects and terminates VALORANT-related processes (`RiotClientServices.exe`, `RiotClientCrashHandler.exe`, `vgtray.exe`).
