@@ -5,7 +5,6 @@
 ### Features:
 - **Terminate Processes:** Automatically detects and terminates VALORANT-related processes (`RiotClientServices.exe`, `RiotClientCrashHandler.exe`, `vgtray.exe`).
 - **Disable Autostart:** Removes the `Riot Vanguard` entry from the Windows registry to prevent it from starting automatically.
-- **Manage Services:** Modifies the `vgc` service's startup type in the registry, disabling it to prevent it from running.
 - **User Feedback:** Provides detailed feedback on the status of processes and registry entries, including confirmation of changes made.
 
 ### How to Use:
